@@ -9,4 +9,5 @@
 9.show git repository information = git status,
 10.how to track file = git add filename.txt,
 11.how to track all file = git add . 
-
+12.how to commit data = git commit -m "Initial commits"
+13.how to put data on reposiotry = git remote add origin https://github.com/Bhavik-983/demo.git
