@@ -1,3 +1,4 @@
 My name is bhavik senjaliya
 my father name is ghanshyambhai
 
+working area,cache area(staging area),committed area(Local repository),remote repository
